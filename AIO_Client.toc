@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: AIO Client
+## Notes: Client-side addon for AIO.
+## Author: AntoineMLD
+## Version: 1.74
+
+
+AIO.lua
+ExpRateClient.lua
