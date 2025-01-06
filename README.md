@@ -86,9 +86,6 @@ The ExpRate system is a Lua-based project designed for World of Warcraft 3.3.5 (
 
 ---
 
-## Contributors
 
-- **Author**: [Your Name]
-- **Testers**: [Your Team]
 
 For questions or further assistance, please reach out to [Your Contact Information].
